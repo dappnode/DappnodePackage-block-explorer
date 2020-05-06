@@ -16,6 +16,8 @@ By default, the block-explorer expects the eth1 http-rpc endpoint to be found at
 
 If you are not using geth as you eth client, you will need to update the package configuration with the correct url for your client.
 
+![package-config](./package-config.png)
+
 ### Metamask Integration
 You can also set this dapp as the block explorer for your metamask!
 
