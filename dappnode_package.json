@@ -1,17 +1,16 @@
 {
   "name": "block-explorer.dnp.dappnode.eth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a private, locally-hosted block explorer using your personal node",
-  "avatar": "",
   "type": "service",
   "dependencies": {},
-  "author": "nate",
+  "author": "thenateway",
   "categories": [
     "Developer tools"
   ],
   "links": {
     "ui": "http://block-explorer.dappnode",
-    "homepage": "https://your-project-homepage-or-docs.io",
+    "homepage": "https://github.com/dappnode/DappnodePackage-block-explorer",
     "block-explorer": "https://github.com/Alethio/ethereum-lite-explorer"
   },
   "license": "GLP-3.0"

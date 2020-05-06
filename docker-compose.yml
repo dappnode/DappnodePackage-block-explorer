@@ -3,6 +3,6 @@ services:
   block-explorer.dnp.dappnode.eth:
     build: ./build
     environment:
-      - 'APP_NODE_URL=http://my.ethchain.dnp.dappnode.eth:8545'
-    image: 'block-explorer.dnp.dappnode.eth:0.0.2'
+      - 'APP_NODE_URL=http://geth.dappnode:8545'
+    image: 'block-explorer.dnp.dappnode.eth:0.0.3'
     restart: always
