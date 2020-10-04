@@ -8,7 +8,7 @@ A block explorer for your dappnode's ethereum client. Uses [Alethio](https://git
 The dappnode block explorer uses local data to provide a ethereum block explorer that is fast, reliable, and private.
 
 ### Installation
-1. Install the dnp via this installer url (must be on dappnode wifi): http://my.dappnode/#/installer/%2Fipfs%2FQmauPMK5fa87yek2k42aes3x6x5kGSkkcVSCXGxPFodaS7
+1. Install the dnp (ipfs hash `QmauPMK5fa87yek2k42aes3x6x5kGSkkcVSCXGxPFodaS7`) via this installer url (must be on dappnode wifi/vpn): http://my.dappnode/#/installer/%2Fipfs%2FQmauPMK5fa87yek2k42aes3x6x5kGSkkcVSCXGxPFodaS7
 2. Access your block explorer at http://block-explorer.dappnode
 
 #### Integration with non-geth clients
